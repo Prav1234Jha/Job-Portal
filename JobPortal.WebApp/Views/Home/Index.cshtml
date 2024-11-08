@@ -215,7 +215,7 @@
     <partial name="_ValidationScriptsPartial" />
 
     <script>
-        // Lưu giá trị thuộc tính được chọn khi nhấn nút Search
+        // Saves the selected attribute value when the Search button is pressed
         function saveSelectedValue() {
             var provinceSelect = document.getElementsByName("province")[0];
             var skillSelect = document.getElementsByName("skill")[0];
@@ -224,7 +224,7 @@
             sessionStorage.setItem("selectedSkill", skillSelect.value);
         }
 
-        // Khôi phục giá trị thuộc tính được chọn khi trang được tải lại
+        // Restores the selected property value when the page is reloaded
         function restoreSelectedValue() {
             var provinceSelect = document.getElementsByName("province")[0];
             var skillSelect = document.getElementsByName("skill")[0];
@@ -241,7 +241,7 @@
             }
         }
 
-        // Gọi hàm khôi phục giá trị thuộc tính khi trang được tải lại
+        // Call the function that restores the property value when the page is reloaded
         window.onload = function () {
             restoreSelectedValue();
         };

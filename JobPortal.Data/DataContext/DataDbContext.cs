@@ -60,9 +60,15 @@ namespace JobPortal.Data.DataContext
         public DbSet<CV> CVs { get; set; }
         public DbSet<Job> Jobs { get; set; }
         public DbSet<Province> Provinces { get; set; }
+        public DbSet<City> Cities { get; set; }
+        public DbSet<Department> Departments { get; set; }
         public DbSet<Skill> Skills { get; set; }
         public DbSet<Time> Times { get; set; }
         public DbSet<Title> Titles { get; set; }
         public DbSet<Country> Countries { get; set; }
+        public DbSet<tblSystem> tblSystems { get; set; }
+        public DbSet<tblModule> tblModules { get; set; }
+        public DbSet<tblFunction> tblFunctions { get; set; }
+        public DbSet<tblTree> tblTrees { get; set; }
     }
 }

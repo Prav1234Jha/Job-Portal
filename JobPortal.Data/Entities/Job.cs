@@ -32,6 +32,12 @@ namespace JobPortal.Data.Entities
         public Province? Province { get; set; }
         [Display(Name = "Province")]
         public int ProvinceId { get; set; }
+
+        //New Added for City Column------//
+        public City? City { get; set; }
+        [Display(Name = "City")]
+        public int CityId { get; set; }
+        //---Ended City table-------------//
         public Time? Time { get; set; }
         [Display(Name = "Working type")]
         public int TimeId { get; set; }

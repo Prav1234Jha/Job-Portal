@@ -111,3 +111,21 @@ C:\Users\Admin\Desktop\New folder (4)\job-portal\JobPortal.Data\obj\Debug\net6.0
 C:\Users\Admin\Desktop\New folder (4)\job-portal\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.pdb
 C:\Users\Admin\Desktop\New folder (4)\job-portal\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.genruntimeconfig.cache
 C:\Users\Admin\Desktop\New folder (4)\job-portal\JobPortal.Data\obj\Debug\net6.0\ref\JobPortal.Data.dll
+C:\Users\subod\Source\Repos\c\JobPortal.Data\bin\Debug\net6.0\JobPortal.Data.deps.json
+C:\Users\subod\Source\Repos\c\JobPortal.Data\bin\Debug\net6.0\JobPortal.Data.runtimeconfig.json
+C:\Users\subod\Source\Repos\c\JobPortal.Data\bin\Debug\net6.0\JobPortal.Data.dll
+C:\Users\subod\Source\Repos\c\JobPortal.Data\bin\Debug\net6.0\JobPortal.Data.pdb
+C:\Users\subod\Source\Repos\c\JobPortal.Data\bin\Debug\net6.0\JobPortal.Common.dll
+C:\Users\subod\Source\Repos\c\JobPortal.Data\bin\Debug\net6.0\JobPortal.Common.pdb
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.csproj.AssemblyReference.cache
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.AssemblyInfoInputs.cache
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.AssemblyInfo.cs
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.csproj.CoreCompileInputs.cache
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.sourcelink.json
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPorta.DE0C2107.Up2Date
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.dll
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\refint\JobPortal.Data.dll
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.pdb
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\JobPortal.Data.genruntimeconfig.cache
+C:\Users\subod\Source\Repos\c\JobPortal.Data\obj\Debug\net6.0\ref\JobPortal.Data.dll
